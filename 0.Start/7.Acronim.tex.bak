@@ -1,0 +1,50 @@
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ % List of acronyms
+\pdfbookmark[1]{List of Acronyms}{loac}
+
+\chapter*{Abbreviations}
+
+
+% See more at http://staff.science.uva.nl/~polko/HOWTO/LATEX/acronym.html
+
+\begin{acronym}
+
+	\acro{BC}{Boundary Conditions}
+	\acro{CFL}{Courant-Friedrichs-Lewy}
+	\acro{CPU}{Central Processing Unit}
+	\acro{CUDA}{Compute Unified Device Architecture}
+	\acro{DCDEM}{Distributed Contact Discrete Element Method}
+	\acro{DEM}{Discrete Element Method}
+	\acro{DTL}{Direct Linear Transform}
+	\acro{DOF}{Degrees of Freedom}	
+	\acro{DNS}{Direct Numerical Simulation}
+	\acro{EOS}{Equation of State}	
+	\acro{GPU}{Graphics Processing Unit}
+	\acro{HPC}{High-Performance Computation}
+	\acro{IBM}{Immersed Boundary Method}
+	\acro{IVP}{Initial Value Problem}
+	\acro{JKR}{Johnson, Kendall and Roberts}
+	\acro{LES}{Large Eddy Simulation}
+	\acro{MPI}{Message Passing Interface}
+	\acro{MPS}{Moving Particle Simulation}
+	\acro{PIV}{Particle Image Velocimetry}
+	\acro{PDE}{Partial Differential Equations}
+	\acro{RANS}{Reynolds-averaged Navier-Stokes Equations}
+	\acro{ODE}{Ordinary Differential Equation}
+	\acro{SPH}{Smooth Particle Hydrodynamics}
+	\acro{SPS}{Sub-Particle Stress}	
+	\acro{VOF}{Volume of Fluid}	
+	\acro{WCSPH}{Weakly Compressible Smooth Particle Hydrodynamics}
+	\acro{PIC}{Particle-in-cell}
+	\acro{PFEM}{Particle Finite Element Method}
+	\acro{FEM}{Finite Element Method}
+	\acro{RMSE}{Root Mean Square Error}
+	
+\end{acronym}
+
+\clearpage
+\thispagestyle{empty}
+\cleardoublepage
+
+
+

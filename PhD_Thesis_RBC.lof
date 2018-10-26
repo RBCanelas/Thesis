@@ -1,0 +1,98 @@
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Introduction}{1}{chapter.1}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conceptual Models}{7}{chapter.2}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Shear deformation in a fluid volume.\relax }}{11}{figure.caption.27}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Contact of two elastic spheres.\relax }}{14}{figure.caption.29}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Numerical Discretization}{17}{chapter.3}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Compact support kernel and domain boundary.\relax }}{21}{figure.caption.30}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Left - Wendland and Cubic spline kernels; Right - First derivatives.\relax }}{22}{figure.caption.31}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Second derivative of Wendland and Cubic spline kernels.\relax }}{23}{figure.caption.32}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Summation extent for interpolation on particle $i$.\relax }}{24}{figure.caption.33}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Scheme of ghost particles boundary condition.\relax }}{31}{figure.caption.41}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Scheme of repulsive particles boundary condition.\relax }}{31}{figure.caption.42}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Scheme of dynamic particles boundary condition.\relax }}{32}{figure.caption.43}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Scheme of DEM mechanism.\relax }}{35}{figure.caption.45}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Restitution coefficient $e$ as a function of initial normal velocity $V_0$ \citep {Kruggel-Emden-2007}.\relax }}{36}{figure.caption.46}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Duration of contact $t_c$ as a function of the impact normal velocity $V_0$ \citep {Kruggel-Emden-2007}.\relax }}{36}{figure.caption.47}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Normal restitution coefficient $e_{n,ij}$ as a function of the impact normal velocity $v_{n,ij}$. Linear force ($\circ $), Non-linear Hertz ($\times $)\relax }}{37}{figure.caption.48}
+\addvspace {10\p@ }
+\contentsline {xchapter}{\ac {HPC} Implementation}{41}{chapter.4}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Flowchart of \ac {CPU} implementation.}\relax }}{43}{figure.caption.51}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Flowchart of \ac {GPU} implementation.}\relax }}{44}{figure.caption.52}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Example of the Neighbor list procedure \citep {Crespo-2011}}\relax }}{45}{figure.caption.53}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Example of the communications among 3 MPI processes \citep {Dominguez-2013b}}\relax }}{47}{figure.caption.55}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Validations and Tests}{49}{chapter.5}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Series solution (--) and SPH solution $L/Dp=20$ ($\cdot $), $L/Dp=50$ (+), $L/Dp=150$ ($\times $) for $R_e=1.25\times 10^{-2}$, at several instants.\relax }}{51}{figure.caption.56}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces \ac {RMSE} with increasing resolution. Linear convergence slope for comparison.\relax }}{52}{figure.caption.58}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Series solution (--) and SPH solution $L/Dp=20$ ($\cdot $), $L/Dp=50$ (+), $L/Dp=150$ ($\times $) for $R_e=1.25\times 10^{-2}$, at several instants.\relax }}{52}{figure.caption.59}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces \ac {RMSE} with increasing resolution. Linear convergence slope for comparison.\relax }}{53}{figure.caption.60}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces a) Scheme of a dam with initial height, $h_0$; b) downward moving gate; c) upward moving gate. $Q$ denotes the flow rate after the gate opening and $w_g$ the gate vertical velocity.\relax }}{53}{figure.caption.62}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Velocity fields, experimental and \ac {SPH} solution. $t=0.05$ s.\relax }}{54}{figure.caption.63}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Velocity fields, experimental and \ac {SPH} solution. $t=0.08$ s.\relax }}{55}{figure.caption.64}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Velocity fields, experimental and \ac {SPH} solution. $t=0.12$ s.\relax }}{55}{figure.caption.65}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Velocity fields, experimental and \ac {SPH} solution. $t=0.16$ s.\relax }}{56}{figure.caption.66}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Velocity profiles, experimental and \ac {SPH} solution. $t=0.07$ s.\relax }}{56}{figure.caption.67}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Velocity profiles, experimental and \ac {SPH} solution. $t=0.16$ s.\relax }}{57}{figure.caption.68}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Velocity profiles, experimental and \ac {SPH} solution. $t=0.19$ s.\relax }}{57}{figure.caption.69}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Velocity field detail for a corner of the square at any time step.\relax }}{58}{figure.caption.70}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Velocity field detail for a corner of the square at $t=5s$, $t=10s$ and $t=15s$.\relax }}{59}{figure.caption.71}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Fluid-solid interface. Left $\delta =0$, right $\delta =0.1$ \relax }}{59}{figure.caption.72}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Density profiles for $t=10$ s. Left, non-mobile boundary, right, mobile boundary. Interface position (---), $\delta $=0 ($\cdots $), $\delta $=0.1 (-- -- --)\relax }}{60}{figure.caption.73}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces { Rising cylinder with $\rho =0.6\rho _{w}$. $T=0$; $T=3.13$; $T=6.26$; $T=9.40$.}\relax }}{61}{figure.caption.74}
+\contentsline {figure}{\numberline {5.18}{\ignorespaces {Non-dimensional vertical velocity for a cylinder. Left - $\rho =0.6\rho _{w}$; Right - $\rho =0.9\rho _{w}$. Added mass model(analytical)\cite {Fekken-2004}($-\cdot -$); Moyo \& Greenhow(analytical)\cite {Moyo-2000}($---$); Fekken(\ac {VOF})\cite {Fekken-2004}($-$); DualSPHysics $D/Dp=66$($\bullet $), $D/Dp=100$($\ast $) and $D/Dp=150$($\Box $).}\relax }}{61}{figure.caption.75}
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Sinking cylinder with $\rho =1.2\rho _{w}$. $T=1.57$; $T=3.13$; $T=4.70$; $T=6.27$.\relax }}{63}{figure.caption.76}
+\contentsline {figure}{\numberline {5.20}{\ignorespaces {Left - Displacement of cylinder; Right - Non-dimensional vertical velocity for a cylinder of $\rho =1.2\rho _{w}$. Moyo \& Greenhow(analytical)\cite {Moyo-2000}($---$); Fekken(\ac {VOF})\cite {Fekken-2004}($-$); DualSPHysics $D/Dp=66$($\bullet $), $D/Dp=100$($\ast $) and $D/Dp=150$($\Box $).}\relax }}{63}{figure.caption.77}
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Sinking sphere with $\rho =2.54\rho _{w}$. Experimental and DualSPHysics results. Left $T=6.905$, right $T=8.20$.\relax }}{64}{figure.caption.78}
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Sinking sphere with $\rho =2.54\rho _{w}$. Experimental(-), experimental error region (shaded gray), DualSPHysics $D/Dp=20$ ($\cdots $) $D/Dp=50$ ($- \cdot -$) \relax }}{64}{figure.caption.79}
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Left - Displacement of rectangle at $t=0.0s$, $t=1.1s$ and $t=5.0s$; Right - Angle history of the rectangle. Equilibrium($---$); Fekken(\ac {VOF})\cite {Fekken-2004}($-$); DualSPHysics $L/Dp=15$($\bullet $), $L/Dp=30$($\ast $) and $L/Dp=50$($\Box $).\relax }}{65}{figure.caption.80}
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Restitution coefficient $e$ as a function of initial normal velocity $V_0$. Experimental data \citep {Kruggel-Emden-2007} and numerical solution.\relax }}{66}{figure.caption.82}
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Upstream perspective of the channel and the open gate.\relax }}{67}{figure.caption.83}
+\contentsline {figure}{\numberline {5.26}{\ignorespaces Three cube configurations, Left - I, Center - II, Right - III\relax }}{68}{figure.caption.85}
+\contentsline {figure}{\numberline {5.27}{\ignorespaces $x$ coordinates in time. Experimental (-), DualSPHysics $L/Dp=10 (- \cdot -)$, $L/Dp=15 (- -)$, $L/Dp=45 (\cdots )$.\relax }}{69}{figure.caption.87}
+\contentsline {figure}{\numberline {5.28}{\ignorespaces Configuration II. Experimental $vs$ numerical rendering of solution. Left $t=0.98s$, right $t=1.28s$.\relax }}{70}{figure.caption.88}
+\contentsline {figure}{\numberline {5.29}{\ignorespaces Bottom cube. $x$ coordinates in time. Experimental (-), DualSPHysics $L/Dp=10 (- \cdot -)$, $L/Dp=15 (- -)$, $L/Dp=45 (\cdots )$.\relax }}{70}{figure.caption.89}
+\contentsline {figure}{\numberline {5.30}{\ignorespaces Top cube. Left - $x$ coordinates, Right - $z$ coordinates. Experimental (-), DualSPHysics $L/Dp=10 (- \cdot -)$, $L/Dp=15 (- -)$, $L/Dp=45 (\cdots )$.\relax }}{71}{figure.caption.90}
+\contentsline {figure}{\numberline {5.31}{\ignorespaces Configuration III. Experimental $vs$ numerical rendering of solution. Left $t=0.95s$, right $t=1.15s$.\relax }}{72}{figure.caption.91}
+\contentsline {figure}{\numberline {5.32}{\ignorespaces Top left cube. Left - $x$ coordinates, Right - $y$ coordinates. Experimental (-), DualSPHysics $L/Dp=10 (- \cdot -)$, $L/Dp=15 (- -)$, $L/Dp=45 (\cdots )$.\relax }}{72}{figure.caption.92}
+\contentsline {figure}{\numberline {5.33}{\ignorespaces Top left cube. $z$ coordinates. Experimental (-), DualSPHysics $L/Dp=15 (- -)$, $L/Dp=10 (- \cdot -)$, $L/Dp=45 (\cdots )$.\relax }}{72}{figure.caption.93}
+\contentsline {figure}{\numberline {5.34}{\ignorespaces Top cube. Left - X coordinates, Right - Z coordinates. Experimental (-), DualSPHysics $L/Dp=15 (- -)$, $L/Dp=10 (- \cdot -)$, $L/Dp=45 (\cdots )$.\relax }}{73}{figure.caption.94}
+\contentsline {figure}{\numberline {5.35}{\ignorespaces Flow field at the impact locus, upstream of the cube in Configuration I. $t=0.88$ s. Left - Experimental data; Right - DualSPHysics $L/Dp=45$\relax }}{74}{figure.caption.95}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Applications}{75}{chapter.6}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Praia das Ma\c {c}\~{a}s, Portugal. Boulder identification and orientation. \cite {Oliveira-2011}\relax }}{77}{figure.caption.96}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Concave and convex geometries, $t=10.5$ s.\relax }}{77}{figure.caption.97}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Concave and convex geometries, $t=11.5$ s.\relax }}{77}{figure.caption.98}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Concave and convex geometries, $t=12.0$ s.\relax }}{78}{figure.caption.99}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Concave and convex geometries, $t=13.0$ s.\relax }}{78}{figure.caption.100}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Concave geometry. Vertical plane over domain axis. Overhanging case. Left-$t=10.9$ s, right-$t=11.5$ s.\relax }}{78}{figure.caption.101}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Concave geometry. Vertical plane over domain axis. Supported case. $t=11.5$ s.\relax }}{78}{figure.caption.102}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Aerial view of the Terminal XXI of the Sines Port. Red square indicates the computational domain.\relax }}{79}{figure.caption.103}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Initial conditions of the system.\relax }}{80}{figure.caption.104}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces General view of the application case, $t=7.6$ s.\relax }}{81}{figure.caption.106}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces General view of the application case, $t=12.0$ s.\relax }}{81}{figure.caption.107}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces General view of the application case, $t=14.0$ s.\relax }}{82}{figure.caption.108}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces General view of the application case, $t=18.0$ s.\relax }}{82}{figure.caption.109}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces General view of the application case, $t=60.0$ s.\relax }}{83}{figure.caption.110}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Details of a set of container stacks, $t=14.0$ s.\relax }}{83}{figure.caption.111}
+\contentsline {figure}{\numberline {6.16}{\ignorespaces Details of a set of container stacks, $t=16.0$ s.\relax }}{84}{figure.caption.112}
+\contentsline {figure}{\numberline {6.17}{\ignorespaces Details of a set of container stacks, $t=17.0$ s.\relax }}{84}{figure.caption.113}
+\contentsline {figure}{\numberline {6.18}{\ignorespaces Details of a set of container stacks, $t=18.0$ s.\relax }}{85}{figure.caption.114}
+\contentsline {figure}{\numberline {6.19}{\ignorespaces Details of a set of container stacks, $t=60.0$ s.\relax }}{85}{figure.caption.115}
+\contentsline {figure}{\numberline {6.20}{\ignorespaces Behavior of the ship-containers system, $t=7.6$ s.\relax }}{86}{figure.caption.116}
+\contentsline {figure}{\numberline {6.21}{\ignorespaces Behavior of the ship-containers system, $t=9.0$ s.\relax }}{86}{figure.caption.117}
+\contentsline {figure}{\numberline {6.22}{\ignorespaces Behavior of the ship-containers system, $t=11.0$ s.\relax }}{87}{figure.caption.118}
+\contentsline {figure}{\numberline {6.23}{\ignorespaces Behavior of the ship-containers system, $t=13.0$ s.\relax }}{87}{figure.caption.119}
+\contentsline {figure}{\numberline {6.24}{\ignorespaces Behavior of the ship-containers system, $t=60.0$ s.\relax }}{88}{figure.caption.120}
+\contentsline {figure}{\numberline {6.25}{\ignorespaces Experimental dam configuration. Slits P1 and P2 specifications. \citep {Silva-2015}\relax }}{90}{figure.caption.121}
+\contentsline {figure}{\numberline {6.26}{\ignorespaces Overall domain configuration.\relax }}{91}{figure.caption.124}
+\contentsline {figure}{\numberline {6.27}{\ignorespaces P1 type slits, $t=3.0$ s\relax }}{92}{figure.caption.125}
+\contentsline {figure}{\numberline {6.28}{\ignorespaces P1 type slits, $t=8.0$ s\relax }}{92}{figure.caption.126}
+\contentsline {figure}{\numberline {6.29}{\ignorespaces P1 type slits, $t=35.0$ s\relax }}{92}{figure.caption.127}
+\contentsline {figure}{\numberline {6.30}{\ignorespaces Sediment trapping efficiency results. P2 type slits. Experimental ($\cdot $) Numerical ($\square $)\relax }}{93}{figure.caption.129}
+\contentsline {figure}{\numberline {6.31}{\ignorespaces Sediment trapping rate as a function of slit density. P1 type slits for $s/d95=1.18$. Experimental ($\cdot $) Numerical ($\square $)\relax }}{94}{figure.caption.130}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conclusions and Recommendations}{95}{chapter.7}

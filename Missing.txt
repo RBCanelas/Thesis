@@ -1,0 +1,8 @@
+-notation carlos tiago -done
+-dynamic boundary condition carlos tiago -done
+-list of symbols joão
+-define h in integrals error order joão
+-explain initial conditions -done
+-convergence and error metrics - DONE
+-Simulation times -done
+

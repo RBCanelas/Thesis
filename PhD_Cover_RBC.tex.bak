@@ -1,0 +1,17 @@
+\documentclass[defaultstyle,10pt,master]{01.thesis}
+
+%% Packages
+\input{00.Definitions/packages.tex}
+%% Page formatting
+\input{00.Definitions/pagesetup.tex}
+
+
+%-----------------------------------------------------------
+%-----------------------------------------------------------
+
+\begin{document}
+
+\input{0.Start/1.cover_main.tex}
+\input{0.Start/1.cover.tex}
+
+\end{document}

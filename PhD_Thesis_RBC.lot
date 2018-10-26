@@ -1,0 +1,21 @@
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Introduction}{1}{chapter.1}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conceptual Models}{7}{chapter.2}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Numerical Discretization}{17}{chapter.3}
+\addvspace {10\p@ }
+\contentsline {xchapter}{\ac {HPC} Implementation}{41}{chapter.4}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Validations and Tests}{49}{chapter.5}
+\contentsline {table}{\numberline {5.1}{\ignorespaces Young modulus, Poisson coefficient and restitution coefficient used in the simulations.\relax }}{66}{table.caption.81}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Young modulus, Poisson coefficient, restitution coefficient and friction coefficient used in the simulations.\relax }}{69}{table.caption.86}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Applications}{75}{chapter.6}
+\contentsline {table}{\numberline {6.1}{\ignorespaces Young modulus, Poisson coefficient, restitution coefficient and friction coefficient used in the simulations.\relax }}{80}{table.caption.105}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Model and prototype discharges\relax }}{90}{table.caption.122}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Sediment mechanical characteristics\relax }}{91}{table.caption.123}
+\contentsline {table}{\numberline {6.4}{\ignorespaces Sediment trapping efficiency results. P1 type slits.\relax }}{92}{table.caption.128}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conclusions and Recommendations}{95}{chapter.7}

@@ -1,0 +1,57 @@
+\section{Time Integration and Stability Region}
+\label{sec:dt}
+
+The ordinary differential equations described in Sections \ref{sec:fluid-discretization} and \ref{sec:solid-discretization} may be integrated in time using a stable method. Traditionally Symplectic schemes are preferred in Hamiltonian systems due to the time-reversibility in the absence of dissipative terms, as well as implicit conservation properties \citep{Monaghan-2005}, leading to a lesser energy drift in long computations. Both \ac{SPH} and \ac{DEM} methods use the Symplectic scheme due to these characteristics. An explicit second-order with time accuracy of $O(dt^2)$ Symplectic integrator is used, using two half-steps with a predictor-corrector strategy:
+
+%
+\begin{equation} \label{eq:symplectic_predictor}
+	Q_i^{n+1/2}= Q_i^{n}+\frac{1}{2}\Delta t \frac{dQ_i^{n}}{dt}
+\end{equation}
+%
+where $Q$ takes the form of $\rho$, $\ve{r}$ or $\ve{u}$, to integrate for density, position and velocity, respectively. For the corrector step
+
+%
+\begin{equation} \label{eq:symplectic_predictor_II}
+	Q_i^{n+1}= Q_i^{n+1/2}+\frac{1}{2}\Delta t \frac{dQ_i^{n+1/2}}{dt}
+\end{equation}
+%
+where the corrected velocity $\ve{u}_i^{n+1}$ is used to update the corrected position $\ve{r}_i^{n+1}$ and both are used to compute the corrected density $\rho_i^{n+1}$.
+
+The stability region of numerical schemes is traditionally assessed with a \ac{CFL} condition. This condition relates the length of the time step to a function of the spatial discretization and the maximum speed with which information can travel in the physical space. In the \ac{WCSPH} scheme, this translates to
+
+%
+\begin{equation} \label{eq:sph_stability_region_I}
+\begin{split}
+	\Delta t_1 = C \min_i \left( \frac{h}{C_s} \right)
+\end{split}
+\end{equation}
+%
+where $C$ is the \ac{CFL} parameter. For traditional explicit schemes $C\in[0;1]$. \cite{Monaghan-1989} recognized the diffusive nature of the artificial viscosity formulation (Equation \ref{eq:sph_artificial_visc_I}) and added the diffusive signal to the velocity signal, resulting in 
+%
+\begin{equation} \label{eq:sph_stability_region_II}
+\begin{split}
+	\Delta t_1 = C \min_i \left( \frac{h}{C_s + \max_j|\mu_{ij}|} \right)
+\end{split}
+\end{equation}
+%
+
+Another \ac{CFL} criterion can be derived by using particle accelerations \citep{Monaghan-1992}, ensuring that no particle penetration occurs:
+%
+\begin{equation} \label{eq:sph_stability_region_III}
+	\Delta t_2 = C \min_i \left( \frac{h}{{|d\ve{u}_i/dt|}} \right)^{1/2}
+\end{equation}
+%
+
+The stability region must also include the restrictions from the \ac{DEM} computations between two interacting solid particles, belonging to two different solids. Expression \eqref{eq:non_linear_tc} provides an estimate for the contact duration. \cite{Lemieux-2008}, \cite{Campbell-1985} and \cite{Brilliantov-2001} propose that fifty time steps is enough to resolve a contact without introducing significant errors in the force computation. As such, the \ac{DEM} criteria reads
+
+%
+\begin{equation} \label{eq:DEM_stability_region_I}
+	\Delta t_3=\frac{t_{c,ij}}{50}=\frac{3.21}{50} \left( \frac{M^*}{k_{n,ij}} \right)^{2/5}v_{n,ij}^{-1/5}
+\end{equation}
+%
+where $M^*$ is taken as the reduced mass of the rigid bodies, composed of several particles. The global time step can now be chosen as 
+%
+\begin{equation} \label{eq:sph_stability_region}
+	\Delta t_ \leq C \min_i \left( \Delta t_1; \Delta t_2; \frac{\Delta t_3}{C} \right)
+\end{equation}
+%

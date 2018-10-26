@@ -1,0 +1,72 @@
+\setcounter{page}{1} \pagenumbering{Alph}
+
+% Add PDF bookmark 
+\pdfbookmark[0]{Title}{Title}
+
+\thispagestyle{empty}
+\begin{flushleft} ~\\ \vspace{-10mm} \hspace{-1mm}  \includegraphics[height=20mm]{Cover/IST_A_RGB_POS} %\hspace{35mm}
+%\includegraphics[height=10mm]{Cover/uvigo}
+\center 
+\LARGE \textbf{UNIVERSIDADE DE LISBOA}\\
+\LARGE \textbf{INSTITUTO SUPERIOR TÉCNICO}\\
+%%\LARGE \textbf{UNIVERSIDADE DE VIGO}
+%\\ \vspace{1mm} % gráficos
+%\\ \begin{center} %\includegraphics[width=0.90\linewidth]{Cover/Uecker_II_small}  \end{center} % gráficos
+\begin{centering}
+%\small G\"unther Uecker, \emph{1987}\\
+\vspace{15mm}
+\LARGE \textbf{Numerical modeling of fully coupled solid-fluid flows}
+\\ \vspace{10mm}
+\Large \textbf{Ricardo Jorge Fonseca Birjukov Canelas}
+\\ \vspace{10mm}
+\begin{tabular}{lcl}
+\large \textbf{Supervisor}:		& \large \textbf{Doctor Rui Miguel Lage Ferreira}  &  \\ 
+\large \textbf{Co-Supervisor}: 		& \large \textbf{Doctor Ramón Gómez-Gesteira}  &  \\
+\end{tabular}
+\vspace{10mm}
+
+\large \textbf{Thesis approved in public session to obtain the PhD Degree in Civil Engineering}\\
+\vspace{5mm}
+\large {{Jury final classification: Pass with Distinction}} \\
+\vspace{10mm}
+
+\large \textbf{Jury}\\
+\end{centering}
+
+\begin{flushleft}
+\hspace{5mm} \large \textbf{Chairperson: Chairman of the IST Scientific Board}    \\
+\vspace{2mm}\hspace{7mm}\large \textbf{Members of the Committee}:  \\
+\hspace{15mm}\large \textbf{Doctor Jo\~{a}o Gouveia Apar\'{i}cio Bento Leal}, Professor, Faculty of Engineering and Science, University of Agder, Norway   \\  
+\hspace{15mm}\large \textbf{Doctor Ramon G\'{o}mez-Gesteira}, Professor Catedrático de la Faculdad de Ciencias, Universidad de Vigo, Spain  \\
+\hspace{15mm}\large \textbf{Doctor Ramiro Joaquim de Jesus Neves}, Professor Associado do Instituto Superior   \\
+\hspace{15mm}\large \textbf{Doctor Alejandro Jacobo Cabrera Crespo}  \\
+\hspace{15mm}\large \textbf{Doctor Rui Miguel Lage Ferreira}  \\
+\hspace{15mm}\large \textbf{Doctor Carlos Manuel Tiago Tavares Fernandes}  \\
+\end{flushleft}
+
+\vspace{10mm}
+
+\Large \textbf{Funding Institutions}\\
+\vspace{2mm}
+\large Funda\c{c}\~{a}o para a Ci\^{e}ncia e Tecnologia - FCT
+
+\vspace{10mm}
+%\Large \textbf{\todaythesis\today} \\
+\Large {\textbf{2015}} \\
+\let\thepage\relax
+\end{flushleft}
+\pagebreak
+
+
+\clearpage
+% Since I am using double sided pages, the second page should be white.
+% Remember that when delivering the dissertation, IST requires for the cover to appear twice.
+
+\thispagestyle{empty}
+\cleardoublepage
+
+\setcounter{page}{1} \pagenumbering{roman}
+
+\baselineskip 18pt % line spacing: -12pt for single spacing
+                   %               -18pt for 1 1/2 spacing
+                   %               -24pt for double spacingnts}

@@ -1,0 +1,14 @@
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Dummy Chapter:
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The Introduction:
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\fancychapter{\ac{HPC} Implementation}
+\label{cap:chapter_hpc}
+
+\textit{This chapter briefly introduces the implementation techniques used to ensure maximum performance. Differences for the two computational architectures are discussed and consequences on the code are discussed.}
+
+\input{4.Chapter/4.sectiona.tex}
+\cleardoublepage

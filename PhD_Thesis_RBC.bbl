@@ -1,0 +1,859 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Adams and Nosonovsky}{Adams and
+  Nosonovsky}{2000}]{Adams-2000}
+Adams, G. and M.~Nosonovsky (2000).
+\newblock Contact modeling-forces.
+\newblock {\em Tribology International\/}~{\em 33\/}(5), 431--442.
+
+\bibitem[\protect\citeauthoryear{{Aleixo}}{{Aleixo}}{2013}]{Aleixo-2013}
+{Aleixo}, R. (2013).
+\newblock {\em Experimental Study of the Early Stages of a Dam-Break Flow Over
+  Fixed and Mobile Beds}.
+\newblock Ph.\ D. thesis, Universite catholique de Louvain.
+
+\bibitem[\protect\citeauthoryear{{Aleixo}, {Soares-Frazao}, and
+  {Zech}}{{Aleixo} et~al.}{2011}]{aleixo-al-2011}
+{Aleixo}, R., S.~{Soares-Frazao}, and Y.~{Zech} (2011).
+\newblock Velocity-field measurements in a dam-break flow using a ptv voronoi
+  imaging technique.
+\newblock {\em Experiments in Fluids\/}~{\em 50}, 1633--1649.
+
+\bibitem[\protect\citeauthoryear{Antuono, Colagrossi, and Marrone}{Antuono
+  et~al.}{2012}]{Antuono-2012}
+Antuono, M., A.~Colagrossi, and S.~Marrone (2012).
+\newblock Numerical diffusive terms in weakly-compressible sph schemes.
+\newblock {\em Computer Physics Communications\/}~{\em 189}.
+
+\bibitem[\protect\citeauthoryear{{Antuono}, {Colagrossi}, {Marrone}, and
+  {Molteni}}{{Antuono} et~al.}{2010}]{Antuono-2010}
+{Antuono}, M., A.~{Colagrossi}, S.~{Marrone}, and D.~{Molteni} (2010).
+\newblock Free-surface flows solved by means of sph schemes with numerical
+  diffusive terms.
+\newblock {\em Computer Physics Communications\/}~{\em 181\/}(3), 532 -- 549.
+
+\bibitem[\protect\citeauthoryear{Aris}{Aris}{1962}]{Aris-1962}
+Aris, R. (1962).
+\newblock {\em Vectors, Tensors and the Basic Equations of Fluid Mechanics}.
+\newblock Dover Publications, INC.
+
+\bibitem[\protect\citeauthoryear{{Armanini}, {Fraccarollo}, and
+  {Larcher}}{{Armanini} et~al.}{2008}]{Armanini-2008}
+{Armanini}, A., L.~{Fraccarollo}, and M.~{Larcher} (2008).
+\newblock Liquid-granular channel flow dynamics.
+\newblock {\em Powder Technology\/}~{\em 182\/}(2), 218 -- 227.
+\newblock Granular Temperature.
+
+\bibitem[\protect\citeauthoryear{Arroyo and Ortiz}{Arroyo and
+  Ortiz}{2006}]{Arroyo-2006}
+Arroyo, M. and M.~Ortiz (2006).
+\newblock Local maximum-entropy approximation schemes: a seamless bridge
+  between finite elements and meshfree methods.
+\newblock {\em International Journal for Numerical Methods in
+  Engineering\/}~{\em 65\/}(13), 2167--2202.
+
+\bibitem[\protect\citeauthoryear{Ayachit}{Ayachit}{2015}]{Ayachit-2015}
+Ayachit, U. (2015).
+\newblock The paraview guide: A parallel visualization application.
+
+\bibitem[\protect\citeauthoryear{{Bagnold}}{{Bagnold}}{1954}]{bagnold-1954}
+{Bagnold}, R. (1954).
+\newblock Experiments on a gravity-free dispersion of large solid spheres in a
+  newtonian fluid under shear.
+\newblock {\em Proc. of the Royal Soc. of London\/}~{\em 225\/}(1160), 49--63.
+
+\bibitem[\protect\citeauthoryear{Baptista, Miranda, Omira, and
+  Antunes}{Baptista et~al.}{2011}]{mavbaptista-2011}
+Baptista, M.~A., J.~M. Miranda, R.~Omira, and C.~Antunes (2011).
+\newblock Potential inundation of lisbon downtown by a 1755-like tsunami.
+\newblock {\em Natural Hazards and Earth System Science\/}~{\em 11\/}(12),
+  3319--3326.
+
+\bibitem[\protect\citeauthoryear{{Batchelor}}{{Batchelor}}{2000}]{Batchelor-2000}
+{Batchelor}, G.~K. (2000).
+\newblock {\em An Introduction to Fluid Dynamics}.
+\newblock Cambridge University Press.
+
+\bibitem[\protect\citeauthoryear{{Brilliantov} and Pöschel}{{Brilliantov} and
+  Pöschel}{2001}]{Brilliantov-2001}
+{Brilliantov}, N. and T.~Pöschel (2001).
+\newblock Granular gases with impact-velocity-dependent restitution
+  coefficient.
+\newblock In T.~Pöschel and S.~Luding (Eds.), {\em Granular Gases}, Volume 564
+  of {\em Lecture Notes in Physics}, pp.\  100--124. Springer Berlin
+  Heidelberg.
+
+\bibitem[\protect\citeauthoryear{Brilliantov, Spahn, Hertzsch, and
+  P\"oschel}{Brilliantov et~al.}{1996}]{Brilliantov-1996}
+Brilliantov, N.~V., F.~Spahn, J.-M. Hertzsch, and T.~P\"oschel (1996, May).
+\newblock Model for collisions in granular gases.
+\newblock {\em Phys. Rev. E\/}~{\em 53}, 5382--5392.
+
+\bibitem[\protect\citeauthoryear{{Brookshaw}}{{Brookshaw}}{1985}]{Brookshaw-1985}
+{Brookshaw}, L. (1985).
+\newblock A method of calculating radiative heat diffusion in particle
+  simulations.
+\newblock {\em Proceedings of the Astronomical Society of Australia\/}~{\em 6},
+  207--210.
+
+\bibitem[\protect\citeauthoryear{Calantoni, Holland, and Drake}{Calantoni
+  et~al.}{2004}]{Calantoni-2004}
+Calantoni, J., K.~T. Holland, and T.~G. Drake (2004).
+\newblock Modelling sheet flow sediment transport in wave bottom boundary
+  layers using discrete element modelling.
+\newblock {\em Philosophical Transactions of the Royal Society of London A:
+  Mathematical, Physical and Engineering Sciences\/}~{\em 362\/}(1822),
+  1987--2001.
+
+\bibitem[\protect\citeauthoryear{{Campbell}}{{Campbell}}{2006}]{Campbell-2006}
+{Campbell}, C.~S. (2006).
+\newblock Granular material flows - an overview.
+\newblock {\em Powder Technology\/}~{\em 162}, 208 -- 229.
+
+\bibitem[\protect\citeauthoryear{{Campbell} and {Brennen}}{{Campbell} and
+  {Brennen}}{1985}]{Campbell-1985}
+{Campbell}, C.~S. and C.~E. {Brennen} (1985).
+\newblock Chute flows of granular material: Some computer simulations.
+\newblock {\em Journal of Applied Mechanics\/}~{\em 52(1)}, 172--178.
+
+\bibitem[\protect\citeauthoryear{{Canelas}, {Crespo}, {Dom\'{i}nguez}, and
+  {Ferreira}}{{Canelas} et~al.}{2013}]{Canelas-al-2013b}
+{Canelas}, R., A.~{Crespo}, J.~{Dom\'{i}nguez}, and R.~{Ferreira} (2013).
+\newblock A generalized {SPH}-{DEM} discretization for the modelling of complex
+  multiphasic free surface flows.
+\newblock In {\em $8^{th}$ international SPHERIC workshop}.
+
+\bibitem[\protect\citeauthoryear{Canelas, {Crespo}, {Dom\'{i}nguez},
+  {Ferreira}, and G\'{oi}mez-Gesteira}{Canelas et~al.}{2015}]{Canelas-al-2015b}
+Canelas, R., A.~{Crespo}, J.~{Dom\'{i}nguez}, R.~{Ferreira}, and
+  M.~G\'{oi}mez-Gesteira (2015).
+\newblock {SPH}-{DCDEM} model for arbitrary geometries in free surface
+  solid-fluid flows.
+\newblock {\em Computer Physics Communications\/}~{\em Submitted}.
+
+\bibitem[\protect\citeauthoryear{Canelas, Dom\'{i}nguez, Crespo, and
+  Ferreira}{Canelas et~al.}{2014}]{Canelas-al-2014}
+Canelas, R., J.~Dom\'{i}nguez, A.~Crespo, and R.~Ferreira (2014).
+\newblock Modelling of wave impacts on harbour structures and objects with
+  {SPH} and {DEM}.
+\newblock In {\em $9^{th}$ international SPHERIC workshop}.
+
+\bibitem[\protect\citeauthoryear{{Canelas}, {Dom\'{i}nguez}, {Crespo},
+  G\'{o}mez-Gesteira, and {Ferreira}}{{Canelas}
+  et~al.}{2015}]{Canelas-al-2015a}
+{Canelas}, R., J.~{Dom\'{i}nguez}, A.~{Crespo}, M.~G\'{o}mez-Gesteira, and
+  R.~{Ferreira} (2015).
+\newblock A smooth particle hydrodynamics discretization for the modelling of
+  free surface flows and rigid body dynamics.
+\newblock {\em International Journal for Numerical Methods in Fluids\/}~(in
+  press).
+
+\bibitem[\protect\citeauthoryear{Canelas, Dom\'{i}nguez, and Ferreira}{Canelas
+  et~al.}{2013}]{Canelas-al-2013c}
+Canelas, R., J.~Dom\'{i}nguez, and R.~Ferreira (2013, June).
+\newblock Coupling a generalized {DEM} and an {SPH} models under a
+  heterogeneous massively parallel framework.
+\newblock In SEMNI (Ed.), {\em CMN 2013}.
+
+\bibitem[\protect\citeauthoryear{{Capart}, {Young}, and {Zech}}{{Capart}
+  et~al.}{2002}]{Capart-2002}
+{Capart}, H., D.~L. {Young}, and Y.~{Zech} (2002).
+\newblock {Vorono{\"i} imaging methods for the measurement of granular flows}.
+\newblock {\em Experiments in Fluids\/}~{\em 32}, 121--135.
+
+\bibitem[\protect\citeauthoryear{Capel, Fitzgibbon, Kovesi, Werner, Wexler, and
+  Zisserman}{Capel et~al.}{}]{Capel-matlab-dlt}
+Capel, D., A.~Fitzgibbon, P.~Kovesi, T.~Werner, Y.~Wexler, and A.~Zisserman.
+\newblock Matlab functions for multiple view geometry.
+
+\bibitem[\protect\citeauthoryear{Cleary}{Cleary}{1996}]{Cleary-1996}
+Cleary, P.~W. (1996).
+\newblock New implementation of viscosity: Tests with {Couette} flows.
+\newblock Technical report, CSIRO Division of Maths and Stats, Tech. Report DMS
+  - C 96/32.
+
+\bibitem[\protect\citeauthoryear{Cleary}{Cleary}{2014}]{Cleary-2014}
+Cleary, P.~W. (2014).
+\newblock Prediction of coupled particle and fluid flows using {DEM} and {SPH}.
+\newblock {\em Minerals Engineering\/}.
+
+\bibitem[\protect\citeauthoryear{Cleary and Das}{Cleary and
+  Das}{2008}]{Cleary-2008}
+Cleary, P.~W. and R.~Das (2008).
+\newblock The potential for {SPH} modelling of solid deformation and fracture.
+\newblock In {\em IUTAM symposium on theoretical, computational and modelling
+  aspects of inelastic media}, pp.\  287--296. Springer.
+
+\bibitem[\protect\citeauthoryear{Colagrossi, Antuono, Souto-Iglesias, and
+  Le~Touz\'e}{Colagrossi et~al.}{2011}]{Colagrossi-2011}
+Colagrossi, A., M.~Antuono, A.~Souto-Iglesias, and D.~Le~Touz\'e (2011).
+\newblock Theoretical analysis and numerical verification of the consistency of
+  viscous smoothed-particle-hydrodynamics formulations in simulating
+  free-surface flows.
+\newblock {\em Phys. Rev. E\/}~{\em 84}.
+
+\bibitem[\protect\citeauthoryear{{Colagrossi} and {Landrini}}{{Colagrossi} and
+  {Landrini}}{2003}]{Colagrossi-2003}
+{Colagrossi}, A. and M.~{Landrini} (2003).
+\newblock Numerical simulation of interfacial flows by smoothed particle
+  hydrodynamics.
+\newblock {\em Journal of Computational Physics\/}~{\em 191}, 448--475.
+
+\bibitem[\protect\citeauthoryear{Costa, Andrade, Freitas, Oliveira, Taborda,
+  and Silva}{Costa et~al.}{2008}]{Costa-2008}
+Costa, P., C.~Andrade, M.~Freitas, M.~Oliveira, R.~Taborda, and C.~Silva
+  (2008).
+\newblock High energy boulder deposition in barranco and furnas lowlands,
+  western algarve (south portugal).
+\newblock In {\em Proc. 2nd Intern. Tsunami Field Symposium}, pp.\  19--22.
+
+\bibitem[\protect\citeauthoryear{{Crespo}, {Dom\'{i}nguez}, {Barreiro},
+  {G\'{o}mez-Gesteira}, and {Rogers}}{{Crespo} et~al.}{2011}]{Crespo-2011}
+{Crespo}, A., J.~{Dom\'{i}nguez}, A.~{Barreiro}, M.~{G\'{o}mez-Gesteira}, and
+  B.~{Rogers} (2011).
+\newblock {GPU}s, a new tool of acceleration in {CFD}: Efficiency and
+  reliability on smoothed particle hydrodynamics methods.
+\newblock {\em PLoS ONE\/}~{\em 6(6)}.
+
+\bibitem[\protect\citeauthoryear{{Crespo}, {Dom\'{i}nguez}, {Rogers},
+  {G\'{o}mez-Gesteira}, {Longshaw}, {Canelas}, {Vacondio}, {Barreiro}, and
+  {Garc\'{i}a-Feal}}{{Crespo} et~al.}{2015}]{Crespo-2015}
+{Crespo}, A., J.~{Dom\'{i}nguez}, B.~{Rogers}, M.~{G\'{o}mez-Gesteira},
+  S.~{Longshaw}, R.~{Canelas}, R.~{Vacondio}, A.~{Barreiro}, and
+  O.~{Garc\'{i}a-Feal} (2015).
+\newblock Dualsphysics: open-source parallel {CFD} solver on smoothed particle
+  hydrodynamics ({SPH}).
+\newblock {\em Computer Physics Communications\/}~{\em 187}, 204--216.
+
+\bibitem[\protect\citeauthoryear{{Crespo}, {Marongiu}, {Parkinson},
+  {G\'{o}mez-Gesteira}, and {Dom\'{i}nguez}}{{Crespo}
+  et~al.}{2009}]{Crespo-2009}
+{Crespo}, A., J.-C. {Marongiu}, E.~{Parkinson}, M.~{G\'{o}mez-Gesteira}, and
+  J.~{Dom\'{i}nguez} (2009).
+\newblock High performance of {SPH} codes: Best approaches for efficient
+  parallelization on {GPU} computing.
+\newblock In {\em 4th SPHERIC Int. Workshop}.
+
+\bibitem[\protect\citeauthoryear{{Crespo}, {Gomez-Gesteira}, and
+  {Dalrymple}}{{Crespo} et~al.}{2007}]{Crespo-2007}
+{Crespo}, A. J.~C., M.~{Gomez-Gesteira}, and R.~A. {Dalrymple} (2007).
+\newblock Boundary conditions generated by dynamic particles in {SPH} methods.
+\newblock {\em Computers, Materials, \& Continua\/}~{\em 5\/}(3), 173--184.
+
+\bibitem[\protect\citeauthoryear{{Crowe}, {Schwarzkopf}, {Sommerfeld}, and
+  {Tsuji}}{{Crowe} et~al.}{1998}]{Crowe-1998}
+{Crowe}, C., J.~{Schwarzkopf}, M.~{Sommerfeld}, and Y.~{Tsuji} (1998).
+\newblock {\em Multiphase Flows with Droplets and Particles}.
+\newblock CRC Press.
+
+\bibitem[\protect\citeauthoryear{Cummins and Cleary}{Cummins and
+  Cleary}{2011}]{Cummins-2011}
+Cummins, S.~J. and P.~W. Cleary (2011).
+\newblock Using distributed contacts in {DEM}.
+\newblock {\em Applied Mathematical Modelling\/}~{\em 35\/}(4), 1904 -- 1914.
+
+\bibitem[\protect\citeauthoryear{{Dalrymple} and {Rogers}}{{Dalrymple} and
+  {Rogers}}{2006}]{Dalrymple-2006}
+{Dalrymple}, R. and B.~{Rogers} (2006).
+\newblock Numerical modeling of water waves with the {SPH} method.
+\newblock {\em Coastal Engineering\/}~{\em 53\/}(2-3), 141 -- 147.
+\newblock Coastal Hydrodynamics and Morphodynamics.
+
+\bibitem[\protect\citeauthoryear{{Dalrymple} and {Knio}}{{Dalrymple} and
+  {Knio}}{2000}]{Dalrymple-2000}
+{Dalrymple}, R.~A. and O.~{Knio} (2000).
+\newblock {SPH} modelling of water waves.
+\newblock In {\em Proc. Coastal Dynamics}.
+
+\bibitem[\protect\citeauthoryear{{Dean} and {Dalrymple}}{{Dean} and
+  {Dalrymple}}{1991}]{Dean-Dalrymple-1991}
+{Dean}, R.~G. and R.~A. {Dalrymple} (1991).
+\newblock {\em Water Wave Mechanics for Engineers and Scientists}.
+\newblock World Scientific.
+
+\bibitem[\protect\citeauthoryear{{Dehnen} and {Aly}}{{Dehnen} and
+  {Aly}}{2012}]{Dehnen-2012}
+{Dehnen}, W. and H.~{Aly} (2012).
+\newblock Improving convergence in smoothed particle hydrodynamics simulations
+  without pairing instability.
+\newblock {\em Monthly Notices of the Royal Astronomical Society\/}~{\em
+  425\/}(2), 1068--1082.
+
+\bibitem[\protect\citeauthoryear{Dom{\'\i}nguez, Crespo, Barreiro,
+  G{\'o}mez-Gesteira, and Mayrhofer}{Dom{\'\i}nguez
+  et~al.}{2011}]{Dominguez-2011b}
+Dom{\'\i}nguez, J., A.~Crespo, A.~Barreiro, M.~G{\'o}mez-Gesteira, and
+  A.~Mayrhofer (2011).
+\newblock Development of a new pre-processing tool for sph models with complex
+  geometries.
+\newblock In {\em 6th International SPHERIC workshop, ISBN}, Volume 978, pp.\
+  117--124.
+
+\bibitem[\protect\citeauthoryear{{Dom\'{i}nguez}, {Crespo}, and
+  {G\'{o}mez-Gesteira}}{{Dom\'{i}nguez} et~al.}{2013}]{Dominguez-2013a}
+{Dom\'{i}nguez}, J., A.~{Crespo}, and M.~{G\'{o}mez-Gesteira} (2013).
+\newblock Optimization strategies for cpu and gpu implementations of a smoothed
+  particle hydrodynamics method.
+\newblock {\em Computer Physics Communications\/}~{\em 184\/}(3), 617--627.
+
+\bibitem[\protect\citeauthoryear{{Dom\'{i}nguez}, {Crespo},
+  {G\'{o}mez-Gesteira}, and {Marongiu}}{{Dom\'{i}nguez}
+  et~al.}{2011}]{Dominguez-2011}
+{Dom\'{i}nguez}, J., A.~{Crespo}, M.~{G\'{o}mez-Gesteira}, and J.~{Marongiu}
+  (2011).
+\newblock Neighbour lists in smoothed particle hydrodynamics.
+\newblock {\em International Journal for Numerical Methods in Fluids\/}~{\em
+  67\/}(12), 2026--2042.
+
+\bibitem[\protect\citeauthoryear{{Dom\'{i}nguez}, {Crespo}, {Valdez-Balderas},
+  {Rogers}, and {G\'{o}mez-Gesteira}}{{Dom\'{i}nguez}
+  et~al.}{2013}]{Dominguez-2013b}
+{Dom\'{i}nguez}, J., A.~{Crespo}, D.~{Valdez-Balderas}, B.~{Rogers}, and
+  M.~{G\'{o}mez-Gesteira} (2013).
+\newblock New multi-gpu implementation for smoothed particle hydrodynamics on
+  heterogeneous clusters.
+\newblock {\em Computer Physics Communications\/}.
+
+\bibitem[\protect\citeauthoryear{Douxchamps, Spinewine, Capart, Zech, and
+  Macq}{Douxchamps et~al.}{2002}]{Douxchamps-2002}
+Douxchamps, D., B.~Spinewine, H.~Capart, Y.~Zech, and B.~Macq (2002).
+\newblock Particle-based imaging methods for the characterisation of complex
+  fluid flows.
+\newblock In {\em Proc of the IEEE Oceans Conf}.
+
+\bibitem[\protect\citeauthoryear{{Drazin} and {Riley}}{{Drazin} and
+  {Riley}}{2006}]{Drazin-2006}
+{Drazin}, P. and N.~{Riley} (2006).
+\newblock {\em The Navier-Stokes equations: a classification of flows and exact
+  solutions}.
+\newblock Cambridge University Press.
+
+\bibitem[\protect\citeauthoryear{Ellero and Adams}{Ellero and
+  Adams}{2011}]{Ellero-2011}
+Ellero, M. and N.~Adams (2011).
+\newblock Sph simulations of flow around a periodic array of cylinders confined
+  in a channel.
+\newblock {\em International Journal for Numerical Methods in
+  Engineering\/}~{\em 86\/}(8), 1027--1040.
+
+\bibitem[\protect\citeauthoryear{Evans, Harlow, and Bromberg}{Evans
+  et~al.}{1957}]{Evans-1957}
+Evans, M.~W., F.~H. Harlow, and E.~Bromberg (1957).
+\newblock The particle-in-cell method for hydrodynamic calculations.
+\newblock Technical report, DTIC Document.
+
+\bibitem[\protect\citeauthoryear{Fekken}{Fekken}{2004}]{Fekken-2004}
+Fekken, G. (2004).
+\newblock {\em Numerical simulation of free surface flow with moving rigid
+  bodies}.
+\newblock Ph.\ D. thesis, University of Groningen.
+
+\bibitem[\protect\citeauthoryear{Ferrand, Laurence, Rogers, Violeau, and
+  Kassiotis}{Ferrand et~al.}{2013}]{Ferrand-al-2013}
+Ferrand, M., D.~Laurence, B.~Rogers, D.~Violeau, and C.~Kassiotis (2013).
+\newblock Unified semi-analytical wall boundary conditions for inviscid,
+  laminar or turbulent flows in the meshless sph method.
+\newblock {\em International Journal for Numerical Methods in Fluids\/}~{\em
+  71\/}(4), 446--472.
+
+\bibitem[\protect\citeauthoryear{Ferreira}{Ferreira}{2011}]{ferreira-2011}
+Ferreira, R.~M. (2011).
+\newblock Turbulent flow hydrodynamics and sediment transport: Laboratory
+  research with lda and piv.
+\newblock In {\em Experimental Methods in Hydraulic Research}, pp.\  67--111.
+  Springer.
+
+\bibitem[\protect\citeauthoryear{Fourtakas, Dominguez, Vacondio, Nasar, and
+  Rogers}{Fourtakas et~al.}{2014}]{Fourtakas-2014}
+Fourtakas, G., J.~Dominguez, R.~Vacondio, A.~Nasar, and B.~Rogers (2014).
+\newblock Local uniform stencil (lust) boundary conditions for 3-d irregular
+  boundaries in dualsphysics.
+\newblock In {\em Proc. 9th Int. SPHERIC Workshop, Paris}, pp.\  103--110.
+
+\bibitem[\protect\citeauthoryear{{Frank}}{{Frank}}{1967}]{frank-1967}
+{Frank}, W. (1967, October).
+\newblock Oscillation of cylinders in or below the free surface of deep fluids.
+\newblock Technical Report 2375, Naval Ship research and Development Center,
+  Hydromechanics Laboratory.
+
+\bibitem[\protect\citeauthoryear{Fukushima}{Fukushima}{1999}]{Fukushima-1999}
+Fukushima, E. (1999).
+\newblock Nuclear magnetic resonance as a tool to study flow.
+\newblock {\em Annual Review of Fluid Mechanics\/}~{\em 31\/}(1), 95--123.
+
+\bibitem[\protect\citeauthoryear{{Gingold} and {Monaghan}}{{Gingold} and
+  {Monaghan}}{1977}]{Gingold-1977}
+{Gingold}, R. and J.~{Monaghan} (1977).
+\newblock Smoothed particle hydrodynamics - theory and application to
+  non-spherical stars.
+\newblock {\em Monthly Notices of the Royal Astronomical Society\/}~{\em 181},
+  375--389.
+
+\bibitem[\protect\citeauthoryear{Gingold and Monaghan}{Gingold and
+  Monaghan}{1982}]{Gingold-1982}
+Gingold, R. and J.~Monaghan (1982).
+\newblock Kernel estimates as a basis for general particle methods in
+  hydrodynamics.
+\newblock {\em Journal of Computational Physics\/}~{\em 46\/}(3), 429 -- 453.
+
+\bibitem[\protect\citeauthoryear{{G\'{o}mez-Gesteira}, {Rogers}, {Dalrymple},
+  and {Crespo}}{{G\'{o}mez-Gesteira} et~al.}{2010}]{Gomez-Gesteira-2010}
+{G\'{o}mez-Gesteira}, M., B.~{Rogers}, A.~{Dalrymple}, R., and A.~{Crespo}
+  (2010).
+\newblock State-of-the-art of classical sph for free-surface flows.
+\newblock {\em Journal of Hydraulic Research\/}~{\em 48}, 6--27.
+
+\bibitem[\protect\citeauthoryear{Gonzàlez, Sánchez, Macià, and
+  Souto-Iglesias}{Gonzàlez et~al.}{2009}]{Gonzalez-2009}
+Gonzàlez, L.~M., J.~M. Sánchez, F.~Macià, and A.~Souto-Iglesias (2009).
+\newblock Analysis of {WCSPH} laminar viscosity models.
+\newblock In {\em 4th ERCOFTAC SPHERIC workshop on SPH applications}.
+
+\bibitem[\protect\citeauthoryear{Gotoh, Shibahara, and Sakai}{Gotoh
+  et~al.}{2001}]{Gotoh-2001}
+Gotoh, H., T.~Shibahara, and T.~Sakai (2001).
+\newblock Sub-particle-scale turbulence model for the {MPS} method -
+  {L}agrangian flow model for hydraulic engineering.
+\newblock {\em Advanced {M}ethods for {C}omputational {F}luid
+  {D}ynamics\/}~{\em 9-4}, 339--347.
+
+\bibitem[\protect\citeauthoryear{Hertz}{Hertz}{1882}]{Hertz-1882}
+Hertz, H.~R. (1882).
+\newblock {\em Ueber die Beruehrung elastischer Koerper (On Contact Between
+  Elastic Bodies)}, Volume~1.
+\newblock Leipzig, Germany.
+
+\bibitem[\protect\citeauthoryear{{Hoomans}}{{Hoomans}}{2000}]{Hoomans-2000}
+{Hoomans}, B. (2000, January).
+\newblock {\em Granular dynamics of gas-solid two-phase flows}.
+\newblock Ph.\ D. thesis, University of Twente, Enschede.
+
+\bibitem[\protect\citeauthoryear{Idelsohn, O{\~n}ate, and Pin}{Idelsohn
+  et~al.}{2004}]{Idelsohn-al-2004}
+Idelsohn, S.~R., E.~O{\~n}ate, and F.~D. Pin (2004).
+\newblock The particle finite element method: a powerful tool to solve
+  incompressible flows with free-surfaces and breaking waves.
+\newblock {\em International journal for numerical methods in
+  engineering\/}~{\em 61\/}(7), 964--989.
+
+\bibitem[\protect\citeauthoryear{{Issa}}{{Issa}}{2004}]{Issa-2004}
+{Issa}, R. (2004).
+\newblock {\em Numerical assessment of the Smoothed Particle Hydrodynamics
+  gridless method for incompressible flows and its extension to turbulent
+  flows}.
+\newblock Ph.\ D. thesis, UMIST.
+
+\bibitem[\protect\citeauthoryear{Johnson}{Johnson}{1987}]{Johnson-1987}
+Johnson, K.~L. (1987).
+\newblock {\em Contact mechanics}.
+\newblock Cambridge university press.
+
+\bibitem[\protect\citeauthoryear{Johnson, Kendall, and Roberts}{Johnson
+  et~al.}{1971}]{Johnson-1971}
+Johnson, K.~L., K.~Kendall, and A.~D. Roberts (1971).
+\newblock Surface energy and the contact of elastic solids.
+\newblock {\em Proc. R. Soc. London\/}, 301--3013.
+
+\bibitem[\protect\citeauthoryear{Joseph, Zenit, Hunt, and Rosenwinkel}{Joseph
+  et~al.}{2001}]{Joseph-2001}
+Joseph, G., R.~Zenit, M.~Hunt, and A.~Rosenwinkel (2001).
+\newblock Particle--wall collisions in a viscous fluid.
+\newblock {\em Journal of Fluid Mechanics\/}~{\em 433}, 329--346.
+
+\bibitem[\protect\citeauthoryear{Kain, Gomez, and Moghaddam}{Kain
+  et~al.}{2012}]{Kain-2012}
+Kain, C., C.~Gomez, and A.~Moghaddam (2012).
+\newblock Comment on reassessment of hydrodynamic equations: Minimum flow
+  velocity to initiate boulder transport by high energy events (storms,
+  tsunamis), by n.a.k. nandasena, r. paris and n. tanaka [marine geology 281,
+  70-84].
+\newblock {\em Marine Geology\/}~{\em 319-322\/}(0), 75--76.
+
+\bibitem[\protect\citeauthoryear{Kempe and Fröhlich}{Kempe and
+  Fröhlich}{2012}]{Kempe-2012}
+Kempe, T. and J.~Fröhlich (2012, 10).
+\newblock Collision modelling for the interface-resolved simulation of
+  spherical particles in viscous fluids.
+\newblock {\em Journal of Fluid Mechanics\/}~{\em 709}, 445--489.
+
+\bibitem[\protect\citeauthoryear{{Koshizuka}, {Nobe}, and {Oka}}{{Koshizuka}
+  et~al.}{1998}]{Koshizuka-1998}
+{Koshizuka}, S., A.~{Nobe}, and Y.~{Oka} (1998).
+\newblock {Numerical analysis of breaking waves using the moving particle
+  semi-implicit method}.
+\newblock {\em International Journal for Numerical Methods in Fluids\/}~{\em
+  26}, 751--769.
+
+\bibitem[\protect\citeauthoryear{{Kruggel-Emden}, {Simsek}, {Rickelt}, {Wirtz},
+  and {Scherer}}{{Kruggel-Emden} et~al.}{2007}]{Kruggel-Emden-2007}
+{Kruggel-Emden}, H., E.~{Simsek}, S.~{Rickelt}, S.~{Wirtz}, and V.~{Scherer}
+  (2007).
+\newblock Review and extension of normal force models for the discrete element
+  method.
+\newblock {\em Powder Technology\/}~{\em 171\/}(3), 157 -- 173.
+
+\bibitem[\protect\citeauthoryear{{Kuwabara} and {Kono}}{{Kuwabara} and
+  {Kono}}{1987}]{Kuwabara-1987}
+{Kuwabara}, G. and K.~{Kono} (1987).
+\newblock Restitution coefficient in a collision between two spheres.
+\newblock {\em Japanese Journal of Applied Physics\/}~{\em 26\/}(8R), 1230.
+
+\bibitem[\protect\citeauthoryear{Lauber and Hager}{Lauber and
+  Hager}{1998}]{Lauber-1998}
+Lauber, G. and W.~H. Hager (1998).
+\newblock Experiments to dambreak wave: Horizontal channel.
+\newblock {\em Journal of Hydraulic Research\/}~{\em 36\/}(3), 291--307.
+
+\bibitem[\protect\citeauthoryear{{Lee}, {Violeau}, {Issa}, and {Ploix}}{{Lee}
+  et~al.}{2010}]{Lee-2010}
+{Lee}, E., D.~{Violeau}, R.~{Issa}, and S.~{Ploix} (2010).
+\newblock Application of weakly compressible and truly incompressible sph to 3d
+  water collapse in waterworks.
+\newblock {\em Journal of Hydraulic Research\/}~{\em 48}.
+
+\bibitem[\protect\citeauthoryear{{Lemieux}, {Leonard}, {Doucet}, {Leclaire},
+  {Viens}, {Chaouki}, and {Bertrand}}{{Lemieux} et~al.}{2008}]{Lemieux-2008}
+{Lemieux}, M., G.~{Leonard}, J.~{Doucet}, L.~{Leclaire}, F.~{Viens},
+  J.~{Chaouki}, and F.~{Bertrand} (2008).
+\newblock Large-scale numerical investigation of solids mixing in a v-blender
+  using the discrete element method.
+\newblock {\em Powder Technology\/}~{\em 181\/}(2), 205 -- 216.
+
+\bibitem[\protect\citeauthoryear{Lemonnier}{Lemonnier}{2010}]{Lemonnier-2010}
+Lemonnier, H. (2010).
+\newblock Nuclear magnetic resonance: A new tool for the validation of
+  multiphase multidimensional cfd codes.
+\newblock {\em Nuclear Engineering and Design\/}~{\em 240\/}(9), 2139--2147.
+
+\bibitem[\protect\citeauthoryear{{Liu}}{{Liu}}{2003}]{Liu-2003}
+{Liu}, G. (2003).
+\newblock {\em Mesh Free methods: Moving beyond the finite element method}.
+\newblock CRC Press.
+
+\bibitem[\protect\citeauthoryear{{Lo} and {Shao}}{{Lo} and
+  {Shao}}{2002}]{Lo-2002}
+{Lo}, E. and S.~{Shao} (2002).
+\newblock Simulation of near-shore solitary wave mechanics by an incompressible
+  sph method.
+\newblock {\em Applied Ocean Research\/}~{\em 24}, 275--286.
+
+\bibitem[\protect\citeauthoryear{{Lucy}}{{Lucy}}{1977}]{Lucy-1977}
+{Lucy}, L.~B. (1977).
+\newblock {A numerical approach to the testing of the fission hypothesis}.
+\newblock {\em Astronomical Journal\/}~{\em 82}, 1013--1024.
+
+\bibitem[\protect\citeauthoryear{Macià, Colagrossi, Antuono, and
+  Souto-Iglesias}{Macià et~al.}{2011}]{Macia-2011}
+Macià, F., A.~Colagrossi, M.~Antuono, and A.~Souto-Iglesias (2011).
+\newblock Benefits of using a wendland kernel for free-surface flows.
+\newblock In {\em 6th ERCOFTAC SPHERIC workshop on SPH applications}, pp.\
+  30--37. Hamburg University of Technology.
+
+\bibitem[\protect\citeauthoryear{Martin, Piomelli, and Candler}{Martin
+  et~al.}{2000}]{Martin-al-2000}
+Martin, M.~P., U.~Piomelli, and G.~V. Candler (2000).
+\newblock Subgrid-scale models for compressible large-eddy simulations.
+\newblock {\em Theoretical and Computational Fluid Dynamics\/}~{\em 13\/}(5),
+  361--376.
+
+\bibitem[\protect\citeauthoryear{Mayrhofer, Ferrand, Kassiotis, Violeau, and
+  Morel}{Mayrhofer et~al.}{2015}]{Mayrhofer-al-2015}
+Mayrhofer, A., M.~Ferrand, C.~Kassiotis, D.~Violeau, and F.-X. Morel (2015).
+\newblock Unified semi-analytical wall boundary conditions in sph: analytical
+  extension to 3-d.
+\newblock {\em Numerical Algorithms\/}~{\em 68\/}(1), 15--34.
+
+\bibitem[\protect\citeauthoryear{{Molteni} and {Colagrossi}}{{Molteni} and
+  {Colagrossi}}{2009}]{Molteni-2009}
+{Molteni}, D. and A.~{Colagrossi} (2009).
+\newblock A simple procedure to improve the pressure evaluation in hydrodynamic
+  context using the sph.
+\newblock {\em Comput. Phys. Comm\/}~{\em 180}, 861--872.
+
+\bibitem[\protect\citeauthoryear{{Monaghan}}{{Monaghan}}{1989}]{Monaghan-1989}
+{Monaghan}, J. (1989, May).
+\newblock On the problem of penetration in particle methods.
+\newblock {\em Journal of Computational Physics\/}~{\em 82}, 1--15.
+
+\bibitem[\protect\citeauthoryear{Monaghan}{Monaghan}{1992}]{Monaghan-1992}
+Monaghan, J. (1992).
+\newblock Smoothed particle hydrodynamics.
+\newblock {\em Annual Review of Astronomy and Astrophysics\/}.
+
+\bibitem[\protect\citeauthoryear{{Monaghan}}{{Monaghan}}{2005}]{Monaghan-2005}
+{Monaghan}, J. (2005).
+\newblock Smoothed particle hydrodynamics.
+\newblock {\em Reports on Progress in Physics\/}~{\em 68\/}(8), 1703.
+
+\bibitem[\protect\citeauthoryear{{Monaghan}}{{Monaghan}}{2006}]{Monaghan-2006}
+{Monaghan}, J. (2006, January).
+\newblock {Smoothed particle hydrodynamic simulations of shear flow}.
+\newblock {\em Monthly Notices of the Royal Astronomical Society\/}~{\em 365},
+  199--213.
+
+\bibitem[\protect\citeauthoryear{{Monaghan}, {Kos}, and {Issa}}{{Monaghan}
+  et~al.}{2003}]{Monaghan-2003}
+{Monaghan}, J., A.~{Kos}, and N.~{Issa} (2003).
+\newblock Fluid motion generated by impact.
+\newblock {\em J. Waterway, Port, Coastal, Ocean Eng.\/}~{\em 129(6)},
+  250--259.
+
+\bibitem[\protect\citeauthoryear{{Monaghan} and {Kos}}{{Monaghan} and
+  {Kos}}{1999}]{Monaghan-1999}
+{Monaghan}, J.~J. and A.~{Kos} (1999).
+\newblock Solitary waves on a cretan beach.
+\newblock {\em Journal of Waterway, Port, Coastal and Ocean Engineering\/}~{\em
+  125}.
+
+\bibitem[\protect\citeauthoryear{{Morris}, {Fox}, and {Zhu}}{{Morris}
+  et~al.}{1997}]{Morris-1997}
+{Morris}, J.~P., P.~J. {Fox}, and Y.~{Zhu} (1997).
+\newblock Modeling low reynolds number incompressible flows using {SPH}.
+\newblock {\em Journal of Computational Physics\/}~{\em 136\/}(1), 214 -- 226.
+
+\bibitem[\protect\citeauthoryear{{Moyo} and {Greenhow}}{{Moyo} and
+  {Greenhow}}{2000}]{Moyo-2000}
+{Moyo}, S. and M.~{Greenhow} (2000).
+\newblock Free motion of a cylinder moving below and through a free surface.
+\newblock {\em Applied Ocean Research\/}~{\em 22}, 31--44.
+
+\bibitem[\protect\citeauthoryear{Nandasena, Paris, and Tanaka}{Nandasena
+  et~al.}{2011}]{Nandasena-2011}
+Nandasena, N., R.~Paris, and N.~Tanaka (2011).
+\newblock Reassessment of hydrodynamic equations: Minimum flow velocity to
+  initiate boulder transport by high energy events (storms, tsunamis).
+\newblock {\em Marine Geology\/}~{\em 281\/}(1-4), 70--84.
+
+\bibitem[\protect\citeauthoryear{Nott and Bryant}{Nott and
+  Bryant}{2003}]{Nott-2003}
+Nott, J., J. and E.~Bryant (2003).
+\newblock Extreme marine inundations (tsunamis?) of coastal western australia.
+\newblock {\em J. Geology\/}~(111), 691--706.
+
+\bibitem[\protect\citeauthoryear{Oertel and Bung}{Oertel and
+  Bung}{2012}]{Oertel-2012}
+Oertel, M. and D.~B. Bung (2012).
+\newblock Initial stage of two-dimensional dam-break waves: laboratory versus
+  vof.
+\newblock {\em Journal of Hydraulic Research\/}~{\em 50\/}(1), 89--97.
+
+\bibitem[\protect\citeauthoryear{Oger, Doring, Alessandrini, and Ferrant}{Oger
+  et~al.}{2007}]{Oger-al-2007}
+Oger, G., M.~Doring, B.~Alessandrini, and P.~Ferrant (2007).
+\newblock An improved sph method: Towards higher order convergence.
+\newblock {\em Journal of Computational Physics\/}~{\em 225\/}(2), 1472--1492.
+
+\bibitem[\protect\citeauthoryear{{Oliveira}, {Andrade}, {Freitas}, {Costa},
+  {Taborda}, {Janardo}, and {Neves}}{{Oliveira} et~al.}{2011}]{Oliveira-2011}
+{Oliveira}, M., C.~{Andrade}, M.~{Freitas}, P.~{Costa}, R.~{Taborda},
+  C.~{Janardo}, and R.~{Neves} (2011).
+\newblock Transport of large boulders quarried from shore platforms of the
+  portuguese west coast.
+\newblock {\em Journal of Coastal Research\/}~{\em 64}, 1871--1875.
+
+\bibitem[\protect\citeauthoryear{O{\~n}ate, Idelsohn, Del~Pin, and
+  Aubry}{O{\~n}ate et~al.}{2004}]{Onate-al-2004}
+O{\~n}ate, E., S.~R. Idelsohn, F.~Del~Pin, and R.~Aubry (2004).
+\newblock The particle finite element method-an overview.
+\newblock {\em International Journal of Computational Methods\/}~{\em 1\/}(02),
+  267--307.
+
+\bibitem[\protect\citeauthoryear{Ortiz, Puso, and Sukumar}{Ortiz
+  et~al.}{2010}]{Ortiz-2010}
+Ortiz, A., M.~Puso, and N.~Sukumar (2010).
+\newblock Maximum-entropy meshfree method for compressible and
+  near-incompressible elasticity.
+\newblock {\em Computer Methods in Applied Mechanics and Engineering\/}~{\em
+  199\/}(25), 1859--1871.
+
+\bibitem[\protect\citeauthoryear{Peskin}{Peskin}{1977}]{Peskin-1977}
+Peskin, C.~S. (1977).
+\newblock Numerical analysis of blood flow in the heart.
+\newblock {\em Journal of computational physics\/}~{\em 25\/}(3), 220--252.
+
+\bibitem[\protect\citeauthoryear{{Pope}}{{Pope}}{2000}]{pope-2000}
+{Pope}, S.~B. (2000).
+\newblock {\em Turbulent Flows}.
+\newblock Cambridge: Cambridge University Press.
+
+\bibitem[\protect\citeauthoryear{{Potapov}, {Hunt}, and {Campbell}}{{Potapov}
+  et~al.}{2001}]{Potapov-2001}
+{Potapov}, A.~V., M.~L. {Hunt}, and C.~S. {Campbell} (2001).
+\newblock Liquid-solid flows using smoothed particle hydrodynamics and the
+  discrete element method.
+\newblock {\em Powder Technology\/}~{\em 116\/}(2-3), 204 -- 213.
+
+\bibitem[\protect\citeauthoryear{{Price}}{{Price}}{2008}]{Price-2008}
+{Price}, D. (2008).
+\newblock {Modelling discontinuities and Kelvin Helmholtz instabilities in
+  SPH}.
+\newblock {\em Journal of Computational Physics\/}~{\em 227}, 10040--10057.
+
+\bibitem[\protect\citeauthoryear{Prosperetti and Tryggvason}{Prosperetti and
+  Tryggvason}{2007}]{Prosperetti-2007}
+Prosperetti, A. and G.~Tryggvason (2007).
+\newblock {\em Computational methods for multiphase flow}.
+\newblock Cambridge university press.
+
+\bibitem[\protect\citeauthoryear{Quinlan, Basa, and Lastiwka}{Quinlan
+  et~al.}{2006}]{Quinlan-al-2006}
+Quinlan, N.~J., M.~Basa, and M.~Lastiwka (2006).
+\newblock Truncation error in mesh-free particle methods.
+\newblock {\em International Journal for Numerical Methods in
+  Engineering\/}~{\em 66\/}(13), 2064--2085.
+
+\bibitem[\protect\citeauthoryear{{Randles} and {Libersky}}{{Randles} and
+  {Libersky}}{1996}]{Randles-1996}
+{Randles}, P. and L.~{Libersky} (1996).
+\newblock Smoothed particle hydrodynamics: Some recent improvements and
+  applications.
+\newblock {\em Computer Methods in Applied Mechanics and Engineering\/}~{\em
+  139\/}(1-4), 375--408.
+
+\bibitem[\protect\citeauthoryear{{Remaitre}, {Malet}, and
+  {Maquaire}}{{Remaitre} et~al.}{2008}]{Remaitre-2008}
+{Remaitre}, A.and~{van Asch}, T.~J., J.~P. {Malet}, and O.~{Maquaire} (2008).
+\newblock Influence of check dams on debris-flow run-out intensity.
+\newblock {\em Natural Hazards and Earth System Sciences\/}~(8), 1403--1416.
+
+\bibitem[\protect\citeauthoryear{{Robinson}, {Ramaioli}, and
+  {Luding}}{{Robinson} et~al.}{2014}]{Robinson-2014}
+{Robinson}, M., M.~{Ramaioli}, and S.~{Luding} (2014).
+\newblock Fluid particle flow simulations using two-way-coupled mesoscale
+  sph-dem and validation.
+\newblock {\em International Journal of Multiphase Flow\/}~{\em 59}, 121--134.
+
+\bibitem[\protect\citeauthoryear{{Rogers}, {Dalrymple}, and {Stansby}}{{Rogers}
+  et~al.}{2010}]{Rogers-2010}
+{Rogers}, B., R.~{Dalrymple}, and P.~{Stansby} (2010).
+\newblock Simulation of caisson breakwater movement using {2-D SPH}.
+\newblock {\em Journal of Hydraulic Research\/}~{\em 48}, 135--141.
+
+\bibitem[\protect\citeauthoryear{{Saitoh} and {Makino}}{{Saitoh} and
+  {Makino}}{2013}]{Saitoh-2013}
+{Saitoh}, T. and J.~{Makino} (2013, May).
+\newblock {A Density-independent Formulation of Smoothed Particle
+  Hydrodynamics}.
+\newblock {\em The Astrophysical Journal\/}~{\em 768}, 44.
+
+\bibitem[\protect\citeauthoryear{Scheffers and Kelletat}{Scheffers and
+  Kelletat}{2005}]{Scheffers-2005}
+Scheffers, A. and D.~Kelletat (2005).
+\newblock Tsunami relics on the coastal landscape west of lisbon, portugal.
+\newblock {\em Science of Tsunami Hazards\/}~{\em 23\/}(1), 3--16.
+
+\bibitem[\protect\citeauthoryear{{Sh\"{a}fer}, {Dippel}, and Wolf}{{Sh\"{a}fer}
+  et~al.}{1996}]{Shaefer-1996}
+{Sh\"{a}fer}, J., S.~{Dippel}, and D.~E. Wolf (1996).
+\newblock Force schemes in simulations of granular materials.
+\newblock {\em Journal de Physique I, EDP Sciences\/}, 5--20.
+
+\bibitem[\protect\citeauthoryear{{Shu}, {Xia}, {Falconer}, and {Lin}}{{Shu}
+  et~al.}{2011}]{Shu-2011}
+{Shu}, C., J.~{Xia}, R.~{Falconer}, and B.~{Lin} (2011).
+\newblock Incipient velocity for partially submerged vehicles in floodwaters.
+\newblock {\em Journal of Hydraulic Research\/}~{\em 49}.
+
+\bibitem[\protect\citeauthoryear{{Silva}, {Costa}, and {Cardoso}}{{Silva}
+  et~al.}{2015}]{Silva-2015}
+{Silva}, M., S.~{Costa}, and A.~H. {Cardoso} (2015).
+\newblock Slit check-dams for stony type debris flows mitigation. experimental
+  study to evaluate sediment control efficiency.
+\newblock In {\em Second International Dam World Conference}.
+
+\bibitem[\protect\citeauthoryear{Spinewine, Capart, Larcher, and
+  Zech}{Spinewine et~al.}{2003}]{Spinewine-2003}
+Spinewine, B., H.~Capart, M.~Larcher, and Y.~Zech (2003).
+\newblock Three-dimensional vorono{\"\i} imaging methods for the measurement of
+  near-wall particulate flows.
+\newblock {\em Experiments in Fluids\/}~{\em 34\/}(2), 227--241.
+
+\bibitem[\protect\citeauthoryear{Spinewine and Zech}{Spinewine and
+  Zech}{2007}]{Spinewine-2007}
+Spinewine, B. and Y.~Zech (2007).
+\newblock Small-scale laboratory dam-break waves on movable beds.
+\newblock {\em Journal of Hydraulic Research\/}~{\em 45\/}(sup1), 73--86.
+
+\bibitem[\protect\citeauthoryear{{Stoker}}{{Stoker}}{1957}]{stoker-1957}
+{Stoker}, J. (1957).
+\newblock {\em Water waves. The mathematical theory with applications.}
+\newblock Interscience Publishers.
+
+\bibitem[\protect\citeauthoryear{{Swegle}, {Hicks}, and {Attaway}}{{Swegle}
+  et~al.}{1995}]{Swegle-1995}
+{Swegle}, J., D.~{Hicks}, and S.~{Attaway} (1995).
+\newblock Smoothed particle hydrodynamics stability analysis.
+\newblock {\em Journal of Computational Physics\/}~{\em 116\/}(1), 123 -- 134.
+
+\bibitem[\protect\citeauthoryear{Truesdell}{Truesdell}{1954}]{Truesdell-1954}
+Truesdell, C. (1954).
+\newblock {\em The kinematics of vorticity}.
+\newblock Bloomington: Indiana University Press.
+
+\bibitem[\protect\citeauthoryear{{Vacondio}, {Rogers}, {Stansby}, {Mignosa},
+  and {Feldman}}{{Vacondio} et~al.}{2013}]{Vacondio-2013}
+{Vacondio}, R., B.~{Rogers}, P.~{Stansby}, P.~{Mignosa}, and J.~{Feldman}
+  (2013).
+\newblock Variable resolution for sph: A dynamic particle coalescing and
+  splitting scheme.
+\newblock {\em Computer Methods in Applied Mechanics and Engineering\/}~{\em
+  256}, 132--148.
+
+\bibitem[\protect\citeauthoryear{{Vetsch}}{{Vetsch}}{2011}]{Vetsch-2011}
+{Vetsch}, D. (2011).
+\newblock {\em Numerical Simulation of Sediment Transport with Meshfree
+  Methods}.
+\newblock Ph.\ D. thesis, ETH Zurich.
+
+\bibitem[\protect\citeauthoryear{Violeau}{Violeau}{2012}]{Violeau-2012}
+Violeau, D. (2012).
+\newblock {\em Fluid Mechanics and the {SPH} method: theory and applications}.
+\newblock Oxford University Press.
+
+\bibitem[\protect\citeauthoryear{{Violeau} and {Issa}}{{Violeau} and
+  {Issa}}{2007}]{Violeau-2007}
+{Violeau}, D. and R.~{Issa} (2007).
+\newblock Numerical modelling of complex turbulent free-surface flows with the
+  sph method: an overview.
+\newblock {\em International Journal for Numerical Methods in Fluids\/}~{\em
+  53\/}(2), 277--304.
+
+\bibitem[\protect\citeauthoryear{Wenbing}{Wenbing}{2006}]{Wenbing-2006}
+Wenbing, H. \&~Guoqiang, O. (2006).
+\newblock Efficiency of slit dam prevention against non-viscous debris flow.
+\newblock {\em Wuhan University Journal of Natural Sciences\/}~{\em 11},
+  865--869.
+
+\bibitem[\protect\citeauthoryear{Wendland}{Wendland}{1995}]{Wendland-1995}
+Wendland, H. (1995).
+\newblock Piecewise polynomial, positive definite and compactly supported
+  radial functions of minimal degree.
+\newblock {\em Advances in Computational Mathematics\/}~{\em 4\/}(1), 389--396.
+
+\bibitem[\protect\citeauthoryear{{Yang} and {Hunt}}{{Yang} and
+  {Hunt}}{2006}]{Yang-2006}
+{Yang}, F.-L. and M.~L. {Hunt} (2006).
+\newblock Dynamics of particle-particle collisions in a viscous liquid.
+\newblock {\em Physics of Fluids\/}~{\em 18}.
+
+\bibitem[\protect\citeauthoryear{Yoshizawa}{Yoshizawa}{1986}]{Yoshizawa-1986}
+Yoshizawa, A. (1986).
+\newblock Statistical theory for compressible turbulent shear flows, with the
+  application to subgrid modeling.
+\newblock {\em Physics of Fluids (1958-1988)\/}~{\em 29\/}(7), 2152--2164.
+
+\bibitem[\protect\citeauthoryear{{Zel'dovich} and {Raizer}}{{Zel'dovich} and
+  {Raizer}}{1967}]{Zeldovich-1967}
+{Zel'dovich}, Y. and Y.~P. {Raizer} (1967).
+\newblock {\em Physics of Shock Waves and High-Temperature Hydrodynamic
+  Phenomena}.
+\newblock Academic Press.
+
+\bibitem[\protect\citeauthoryear{{Zeng}, {Yue}, {Yang}, and {Zhang}}{{Zeng}
+  et~al.}{2008}]{Zeng-2008}
+{Zeng}, Q.~L., Z.~Q. {Yue}, Z.~F. {Yang}, and X.~J. {Zhang} (2008).
+\newblock A case study of long term field performance of check-dams in
+  mitigation of soil erosion in jiangjia stream, {China}.
+\newblock {\em Environmental Geology\/}~(58), 897--911.
+
+\end{thebibliography}

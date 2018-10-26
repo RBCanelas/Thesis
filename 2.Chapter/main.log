@@ -1,0 +1,403 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.11)  18 DEC 2013 15:36
+entering extended mode
+**main.tex
+(D:\Ricardo\Dropbox\dout\Thesis\2.Chapter\main.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+! Undefined control sequence.
+l.8 \fancychapter
+                 {Conceptual Models}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \fancychapter{C
+                   onceptual Models}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--10
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...re further elaborated in a third section.}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (39.4221pt too wide) in paragraph at lines 11--12
+[]\OT1/cmr/m/it/10 This
+ []
+
+
+Overfull \hbox (23.51096pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 chap-
+ []
+
+
+Overfull \hbox (12.13878pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 ter
+ []
+
+
+Overfull \hbox (12.26659pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 in-
+ []
+
+
+Overfull \hbox (15.71652pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 tro-
+ []
+
+
+Overfull \hbox (23.25539pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 duces
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (18.39986pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 con-
+ []
+
+
+Overfull \hbox (17.37762pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 cep-
+ []
+
+
+Overfull \hbox (16.35545pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 tual
+ []
+
+
+Overfull \hbox (21.46652pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 mod-
+ []
+
+
+Overfull \hbox (11.24437pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 els
+ []
+
+
+Overfull \hbox (16.86655pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 that
+ []
+
+
+Overfull \hbox (11.24437pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 al-
+ []
+
+
+Overfull \hbox (14.31104pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 low
+ []
+
+
+Overfull \hbox (12.39436pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 for
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 de-
+ []
+
+
+Overfull \hbox (24.66093pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 scrip-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (19.4221pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 fluid
+ []
+
+
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 and
+ []
+
+
+Overfull \hbox (19.93323pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 solid
+ []
+
+
+Overfull \hbox (31.1776pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 phases.
+ []
+
+
+Overfull \hbox (21.60542pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 Each
+ []
+
+
+Overfull \hbox (7.15552pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 is
+ []
+
+
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 de-
+ []
+
+
+Overfull \hbox (29.26086pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 scribed
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 in
+ []
+
+
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 de-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 tail
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 in
+ []
+
+
+Overfull \hbox (17.37766pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 sep-
+ []
+
+
+Overfull \hbox (8.68883pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 a-
+ []
+
+
+Overfull \hbox (16.73874pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 rate
+ []
+
+
+Overfull \hbox (16.35541pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 sec-
+ []
+
+
+Overfull \hbox (21.21098pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 tions
+ []
+
+
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 and
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 de-
+ []
+
+
+Overfull \hbox (18.14433pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 tails
+ []
+
+
+Overfull \hbox (18.39986pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 con-
+ []
+
+
+Overfull \hbox (22.10536pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 cern-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (20.31651pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 their
+ []
+
+
+Overfull \hbox (12.26659pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 in-
+ []
+
+
+Overfull \hbox (15.71652pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 ter-
+ []
+
+
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 ac-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (13.41655pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 are
+ []
+
+
+Overfull \hbox (16.22766pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 fur-
+ []
+
+
+Overfull \hbox (17.24986pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 ther
+ []
+
+
+Overfull \hbox (20.44429pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 elab-
+ []
+
+
+Overfull \hbox (8.68883pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 o-
+ []
+
+
+Overfull \hbox (21.3387pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 rated
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 in
+ []
+
+
+Overfull \hbox (5.11108pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 a
+ []
+
+
+Overfull \hbox (20.31651pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 third
+ []
+
+
+Overfull \hbox (16.35541pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 sec-
+ []
+
+
+Overfull \hbox (20.18877pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 tion. 
+ []
+
+
+! LaTeX Error: File `2.Chapter/1.sectiona.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sectiona.tex)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.13 \input{2.Chapter/1.sectiona.tex}
+                                     
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 12 strings out of 493921
+ 240 string characters out of 3144869
+ 50031 words of memory out of 3000000
+ 3402 multiletter control sequences out of 15000+200000
+ 3986 words of font info for 15 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 13i,1n,10p,280b,67s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
